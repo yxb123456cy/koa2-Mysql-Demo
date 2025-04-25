@@ -1,0 +1,1 @@
+const packageInfo = "这是通用工具类目录";

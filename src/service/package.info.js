@@ -1,0 +1,1 @@
+const packageInfo = "这是服务 dao目录";

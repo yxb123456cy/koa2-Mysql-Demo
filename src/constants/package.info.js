@@ -1,0 +1,1 @@
+const packageInfo = "这是全局常量目录";

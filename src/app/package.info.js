@@ -1,0 +1,1 @@
+const packageInfo = "这是app目录";

@@ -1,0 +1,1 @@
+const packageInfo = "这是中间件目录";
